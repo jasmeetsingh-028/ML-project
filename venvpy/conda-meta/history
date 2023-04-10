@@ -1,0 +1,15 @@
+==> 2023-04-10 17:02:28 <==
+# cmd: C:\Users\sjasm\anaconda3\Scripts\conda-script.py create -p venvpy python==3.8 -y
+# conda version: 4.14.0
++conda-forge/noarch::pip-23.0.1-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-67.6.1-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.40.0-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2022.12.7-h5b45459_0
++conda-forge/win-64::libsqlite-3.40.0-hcfcfb64_0
++conda-forge/win-64::openssl-1.1.1t-hcfcfb64_0
++conda-forge/win-64::python-3.8.0-hc9e8b01_5
++conda-forge/win-64::sqlite-3.40.0-hcfcfb64_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc-14.3-hb6edc58_10
++conda-forge/win-64::vs2015_runtime-14.34.31931-h4c5c07a_10
+# update specs: ['python==3.8']
