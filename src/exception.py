@@ -1,5 +1,6 @@
 import sys
 import logging 
+from logger import logging
 
 
 # if sys is not there

@@ -1,0 +1,49 @@
+Setting up Github:
+
+1) set up a new environment.															git add . -> cls -> git 																			commit -m "commit name"
+																			-> git push -u origin main
+
+	- code .  - command to open vs code directly from command prompt
+	- change terminal to command prompt in vs code
+	- create env in vs code
+	- conda create -p venvpy python==3.8 -y
+	- >conda activate venvpy/
+	- folow git steps to connect to github
+	- add README.md file.
+	- add gitignore file.
+	- git pull to upadte changes on our side
+2) importance of setup.py
+	- write script for setup.py
+3) requirements.txt
+	- '-e .' add this at the end of requirements.txt to automatically trigger setup.py
+	- pip install -r requirements.txt
+
+
+
+Logging and Exception Handelling:
+
+1) setup components folder.
+	- setup folders components pipelin add .py files to them.
+2) add exceptions.py, logging.py, and utils.py.
+
+
+
+Starting the project:
+
+
+Start with a problem statement and a Dataset for that problem statement.
+
+1) Installing any library from requirements.txt
+comment #-e .
+-e . is used to build the package
+so uncomment it at the end
+
+2) Basic information about Dataset:
+
+	-check for missing values - df.isna().sum()
+	-check duplicates
+	-check for data type of columns
+	-check for unique values in each column
+	-check stats for dataset
+	-check categories present in variour columns
+
