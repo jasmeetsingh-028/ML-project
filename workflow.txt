@@ -50,4 +50,6 @@ so uncomment it at the end
 
 3) Write data_ingestion and data_transformation in modular manner inspired from the notebooks.
 
+#) train for different models and evaluate scores to get the best model and perform hyperparameter tuning.
+
 
