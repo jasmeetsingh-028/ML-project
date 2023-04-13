@@ -47,3 +47,7 @@ so uncomment it at the end
 	-check stats for dataset
 	-check categories present in variour columns
 
+
+3) Write data_ingestion and data_transformation in modular manner inspired from the notebooks.
+
+
