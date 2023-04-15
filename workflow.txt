@@ -27,6 +27,8 @@ Logging and Exception Handelling:
 2) add exceptions.py, logging.py, and utils.py.
 
 
+###### python -m src.components.data_ingestion ######
+
 
 Starting the project:
 
@@ -50,6 +52,10 @@ so uncomment it at the end
 
 3) Write data_ingestion and data_transformation in modular manner inspired from the notebooks.
 
-#) train for different models and evaluate scores to get the best model and perform hyperparameter tuning.
+4) train for different models and evaluate scores to get the best model and perform hyperparameter tuning.
+
+5) Create prediction pipeline Using Flask (Web app) which can interact with the model.pkl file to give you results.
+
+6) Deploy on AWS ci/cd pipeline
 
 

@@ -6,4 +6,8 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
+pickle5
 #-e .
+
+#PYTHON VERSION3.8
